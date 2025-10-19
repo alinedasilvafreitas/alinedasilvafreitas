@@ -6,7 +6,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinedasilvafreitas&size_weight=0.5&count_weight=0.5)
 
-## Tecnologia que eu uso  meu dia. 
+## Tecnologia que eu uso no meu dia. 
 
 <div  style="display: inlin_block"><br/>   
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
